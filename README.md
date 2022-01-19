@@ -1,7 +1,7 @@
 # Instructions
 
 1- Rename the file "example.env" to ".env" \
-2- Create an account in [marvel-api](https://developer.marvel.com/) website and follow the steps to get an API_KEY, HASH and TIMESTAMP, them insert the keys in the ".env file"
+2- Create an account in [marvel-api](https://developer.marvel.com/) website and follow the steps to get an API_KEY, HASH and TIMESTAMP, them insert the keys in the ".env" file
 
 # Getting Started with Create React App
 
